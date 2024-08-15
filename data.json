@@ -1,0 +1,14 @@
+{
+    "Records": [
+       {
+        "s3": {
+            "bucket": {
+                "name": "tiktok-polly-output"
+            },
+            "object": {
+                "key": "671c1ab7-d83d-4223-b99d-adb601b2c055.mp3"
+            }
+        }
+       }
+    ]
+}
